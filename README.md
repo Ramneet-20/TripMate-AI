@@ -64,10 +64,6 @@ Run the application:
 streamlit run frontend/app.py
 ```
 
-## 📸 Screenshots
-
-_Add screenshots of the application here._
-
 ## 🌐 Live Demo
 
 Coming Soon...
