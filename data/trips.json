@@ -1,0 +1,103 @@
+{
+    "Ramneet Kaur": [
+        {
+            "source": "Delhi",
+            "destination": "Goa",
+            "start_date": "2026-06-24",
+            "end_date": "2026-06-26",
+            "days": 3,
+            "people": 2,
+            "travel_type": "Relaxed",
+            "food_preference": "Both",
+            "budget": 50000
+        },
+        {
+            "source": "Delhi",
+            "destination": "Goa",
+            "start_date": "2026-06-24",
+            "end_date": "2026-06-26",
+            "days": 3,
+            "people": 2,
+            "travel_type": "Relaxed",
+            "food_preference": "Both",
+            "budget": 50000
+        },
+        {
+            "source": "Delhi",
+            "destination": "Paris",
+            "start_date": "2026-06-24",
+            "end_date": "2026-06-26",
+            "days": 3,
+            "people": 2,
+            "travel_type": "Relaxed",
+            "food_preference": "Both",
+            "budget": 50000
+        },
+        {
+            "source": "Delhi",
+            "destination": "Paris",
+            "start_date": "2026-06-24",
+            "end_date": "2026-06-26",
+            "days": 3,
+            "people": 2,
+            "travel_type": "Relaxed",
+            "food_preference": "Both",
+            "budget": 800000
+        },
+        {
+            "source": "Delhi",
+            "destination": "Goa",
+            "start_date": "2026-06-24",
+            "end_date": "2026-06-26",
+            "days": 3,
+            "people": 2,
+            "travel_type": "Relaxed",
+            "food_preference": "Both",
+            "budget": 800000
+        },
+        {
+            "source": "Delhi",
+            "destination": "Goa",
+            "start_date": "2026-06-24",
+            "end_date": "2026-06-26",
+            "days": 3,
+            "people": 2,
+            "travel_type": "Relaxed",
+            "food_preference": "Both",
+            "budget": 50000
+        },
+        {
+            "source": "Delhi",
+            "destination": "Goa",
+            "start_date": "2026-06-24",
+            "end_date": "2026-06-26",
+            "days": 3,
+            "people": 2,
+            "travel_type": "Relaxed",
+            "food_preference": "Both",
+            "budget": 50000
+        },
+        {
+            "source": "Delhi",
+            "destination": "Goa",
+            "start_date": "2026-07-01",
+            "end_date": "2026-07-02",
+            "days": 2,
+            "people": 2,
+            "travel_type": "Relaxed",
+            "food_preference": "Both",
+            "budget": 50000
+        },
+        {
+            "source": "delhi",
+            "destination": "london",
+            "start_date": "2026-07-15",
+            "end_date": "2026-07-30",
+            "days": 16,
+            "people": 2,
+            "travel_type": "Relaxed",
+            "food_preference": "Both",
+            "budget": 1000000
+        }
+    ]
+}

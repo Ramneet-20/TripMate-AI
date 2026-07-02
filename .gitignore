@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+tripmate_plan.pdf
+test_groq.py
