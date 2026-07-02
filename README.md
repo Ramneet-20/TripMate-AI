@@ -73,7 +73,7 @@ Coming Soon...
 **Ramneet Kaur**
 
 - GitHub: https://github.com/Ramneet-20
-- LinkedIn: *(Add your LinkedIn profile link here)*
+- LinkedIn: https://www.linkedin.com/in/ramneet-kaur-63b596313
 
 ---
 ⭐ If you found this project useful, consider giving it a star!
